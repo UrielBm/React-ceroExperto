@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Evaluendo componente de reacr PrimeraApp.js debe de mostrare <PrimeraApp /> correctamente  1`] = `
+<Fragment>
+  <h1>
+    Hola,qué onda la banda?
+    !!!
+  </h1>
+  <p>
+    Prueba tu primera App
+  </p>
+</Fragment>
+`;

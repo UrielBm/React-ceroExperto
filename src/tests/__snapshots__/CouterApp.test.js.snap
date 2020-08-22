@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probando la correcta funcionalidad de CouterApp.js Debe mostar correctamente el componente <CouterApp /> con su valor por defecto 10  1`] = `
+<Fragment>
+  <h1>
+    CouterApp *tarea*
+  </h1>
+  <h2>
+    10
+  </h2>
+  <div
+    className="wrapper-botones"
+  >
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      +1
+    </button>
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      Reset
+    </button>
+    <button
+      className="button"
+      onClick={[Function]}
+    >
+      -1
+    </button>
+  </div>
+</Fragment>
+`;
